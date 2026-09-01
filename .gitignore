@@ -1,0 +1,15 @@
+*.md~
+*.py~
+*.pyc
+
+*.egg-info
+*.ipynb_checkpoints
+kuka_model_*.zip
+*.pkl
+
+# downloaded / generated under the assignment folders
+*/robomimic/
+*/robomimic_data/
+assignment_1/dataset/
+*.mp4
+trained_models/
